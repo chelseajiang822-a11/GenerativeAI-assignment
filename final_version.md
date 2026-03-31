@@ -41,6 +41,3 @@ The assistant did well in following the structure closely and keeping the writin
 
 **The parts I just revised:**
 One thing that needed clarification was whether “repeat this prompt” meant the full prompt or just the main instruction. It also helped to be careful about tone, because student writing can easily sound too polished or too generic. Also, I add my name in introduction part.
-
-git add final_version.md
-git commit -m "更新final版本内容"
