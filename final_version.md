@@ -39,4 +39,4 @@ Additional requirements:
 The assistant did well in following the structure closely and keeping the writing concise. It also stayed focused on Chinese internet companies instead of drifting into a broader tech discussion.
 
 **The parts I just revised:**
-One thing that needed clarification was whether “repeat this prompt” meant the full prompt or just the main instruction. It also helped to be careful about tone, because student writing can easily sound too polished or too generic. Also, I add my name in introduction part.
+One thing that needed clarification was whether “repeat this prompt” meant the full prompt or just the main instruction. It also helped to be careful about tone, because student writing can easily sound too polished or too generic. Also, I add my name in introduction part
