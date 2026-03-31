@@ -1,4 +1,3 @@
-
 # Coding Assistant Draft
 
 **Introduction**
